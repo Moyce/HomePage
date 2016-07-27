@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="GitHub 1">
+        <menu>
+            <item
+                android:id="@+id/github1_1"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="最热门"/>
+            <item
+                android:id="@+id/github1_2"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="开发者"/>
+            <item
+                android:id="@+id/github1_3"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="流行趋势"/>
+        </menu>
+    </item>
+
+    <item android:title="GitHub 2">
+        <menu>
+            <item
+                android:id="@+id/github2_1"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="最热门"/>
+            <item
+                android:id="@+id/github2_2"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="开发者"/>
+            <item
+                android:id="@+id/github2_3"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="流行趋势"/>
+        </menu>
+    </item>
+
+    <item android:title="GitHub 3">
+        <menu>
+            <item
+                android:id="@+id/github3_1"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="最热门"/>
+            <item
+                android:id="@+id/github3_2"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="开发者"/>
+            <item
+                android:id="@+id/github3_3"
+                android:icon="@drawable/ic_hot_24dp"
+                android:title="流行趋势"/>
+        </menu>
+    </item>
+</menu>
